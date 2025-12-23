@@ -97,7 +97,7 @@ export default function Home() {
                   Lead generation focused
                 </span>
                 <span className="inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1 font-medium text-[#1a73e8]">
-                  AWS-first architectures
+                  Cloud Deploymemnts
                 </span>
                 <span className="inline-flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1 font-medium text-[#1a73e8]">
                   UX and growth driven
